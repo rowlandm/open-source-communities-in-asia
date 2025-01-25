@@ -6,4 +6,4 @@ Name | Type | Website | Contact
 -- | -- | -- | --
 Research Software Asia Australia  | Conference | https://rseaa.org/ |  
 PyCon India | Conference | https://in.pycon.org/2024/rse | 
-PyCon APAC | Conference | PyCon APAC | Conference | https://in.pycon.org/2024/rse | |
+PyCon APAC | Conference | https://pycon.asia | |
