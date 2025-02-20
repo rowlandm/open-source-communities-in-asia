@@ -13,3 +13,6 @@ Name | Type | Website | Contact
 Research Software Asia Australia  | Conference | https://rseaa.org/ |  
 PyCon India | Conference | https://in.pycon.org/2024/rse | 
 PyCon APAC | Conference | https://pycon.asia | |
+FOSSAsia | Organization| https://fossasia.org/ | Hong Phuc Dang |
+Kaiyuanshe | Organization | https://kaiyuanshe.cn/ | Nadia Jiang |
+
